@@ -7,3 +7,5 @@ This FileLogger is a class library that represents a simple engine for saving a 
 
 The unit tests consider the path defined in the app.config for creating the file or using the file already created.
 
+Any concern or improvement, is well received. 
+Please contact me.   :+1:
