@@ -1,7 +1,6 @@
 # FileLogger
 
 This FileLogger is a class library that represents a simple engine for saving a log using a disk file provided in the:
-!
 
 * `app.config` -- (I)
 
